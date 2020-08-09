@@ -1,5 +1,6 @@
 # Table of contents
 
-* [\[Day1\] Intro](README.md)
-* [\[Day2\] HelloWorld](helloworld.md)
+* [README](README.md)
+* [1. Intro](1.-intro.md)
+* [2. HelloWorld](2.-helloworld.md)
 
