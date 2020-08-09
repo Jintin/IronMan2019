@@ -1,4 +1,4 @@
-# Day1 - Intro
+# \[Day1\] Intro
 
 
 
