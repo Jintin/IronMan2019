@@ -14,5 +14,7 @@
 
 Android/iOS 開發者
 
-> Github: [https://github.com/Jintin](https://github.com/Jintin) LinkedIn: [https://www.linkedin.com/in/Jintin/](https://www.linkedin.com/in/Jintin/) Medium: [https://medium.com/@jintin](https://medium.com/@jintin)
+> Github: [https://github.com/Jintin](https://github.com/Jintin)   
+> LinkedIn: [https://www.linkedin.com/in/Jintin/](https://www.linkedin.com/in/Jintin/)   
+> Medium: [https://medium.com/@jintin](https://medium.com/@jintin)
 
