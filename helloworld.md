@@ -10,7 +10,7 @@
 
 1. 這是下載後第一次打開會看到的畫面，可以直接點選 **Start a new Android Studio project** 進入下一步
 
-   ![](.gitbook/assets/android_studio_init%20%281%29.png)
+   ![](.gitbook/assets/android_studio_init.png)
 
 2. 選 **Empty Activity** 後按 **Next**
 
@@ -20,7 +20,7 @@
 
 3. 這邊是需要填 Project 相關資訊的地方 ![](./img/project_info.png)
 
-   ![](.gitbook/assets/project_info%20%281%29.png)
+   ![](.gitbook/assets/project_info.png)
 
    > * Name：Project 名稱
    > * Package name：Project 的 default package，也被視為上架的 id。通常格式為 domain name 的相反順序：例：`com.example.myapplication`
@@ -65,7 +65,7 @@
 
 4. 最後一步是設定 emulator 的參數（容量、記憶體等）
 
-   ![](.gitbook/assets/avd_config%20%281%29.png)
+   ![](.gitbook/assets/avd_config.png)
 
    我們可以全部使用預設值點擊 **Finish** 來完成設定
 
@@ -78,4 +78,3 @@
 ![](.gitbook/assets/hello_world_screen.png)
 
 雖然目前還很陽春，所有介面都不能互動也不會更新。但這是非常重要的一個開始。 下個章節我們會介紹我們在 hello world 程式中使用到的所有元件。很快大家就可以成為一個優秀的 Android developer 了！
-
