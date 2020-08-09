@@ -1,6 +1,6 @@
 # Table of contents
 
-* [2019 iT邦幫忙鐵人賽 十全大補](README.md)
+* [2019 iT邦幫忙鐵人賽](README.md)
 * [1. Intro](1.-intro.md)
 * [2. HelloWorld](2.-helloworld.md)
 * [3. Project Structure](3.-project-structure.md)
